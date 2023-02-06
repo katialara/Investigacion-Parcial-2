@@ -1,0 +1,11 @@
+C:\Users\pauli\source\repos\Persona\Persona\bin\Debug\Persona.exe.config
+C:\Users\pauli\source\repos\Persona\Persona\bin\Debug\Persona.exe
+C:\Users\pauli\source\repos\Persona\Persona\bin\Debug\Persona.pdb
+C:\Users\pauli\source\repos\Persona\Persona\bin\Debug\Persona.xml
+C:\Users\pauli\source\repos\Persona\Persona\obj\Debug\Ejercicio_clase.vbprojAssemblyReference.cache
+C:\Users\pauli\source\repos\Persona\Persona\obj\Debug\Persona.Resources.resources
+C:\Users\pauli\source\repos\Persona\Persona\obj\Debug\Ejercicio_clase.vbproj.GenerateResource.cache
+C:\Users\pauli\source\repos\Persona\Persona\obj\Debug\Ejercicio_clase.vbproj.CoreCompileInputs.cache
+C:\Users\pauli\source\repos\Persona\Persona\obj\Debug\Persona.exe
+C:\Users\pauli\source\repos\Persona\Persona\obj\Debug\Persona.xml
+C:\Users\pauli\source\repos\Persona\Persona\obj\Debug\Persona.pdb
